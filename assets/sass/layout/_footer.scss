@@ -22,7 +22,7 @@
 			width: 100%;
 			margin: (_size(element-margin) * 1.25) 0 _size(element-margin) 0;
 			font-size: 0.8em;
-			text-align: center;
+			text-align: left;
 		}
 
 		@include breakpoint('<=large') {
@@ -42,7 +42,7 @@
 			}
 
 			.copyright {
-				text-align: left;
+				text-align: center;
 			}
 		}
 

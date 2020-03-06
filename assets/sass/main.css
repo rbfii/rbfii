@@ -2850,7 +2850,7 @@ table.alt tbody tr td {
 }
 
 #header.alt h1 {
-  font-size: 4.25em;
+  font-size: 14.25em;
 }
 
 #header.alt > * {
@@ -3474,3 +3474,4 @@ body.is-preload #header.alt .logo {
     max-width: 100%;
   }
 }
+/*# sourceMappingURL=main.css.map */
